@@ -12,6 +12,7 @@ The Medical Scan report classification is a jupyter notebook written in Python. 
 ## Table of Contents
 - [Usage](#usage)
 - [Results](#results)
+- [Visualization output](#Visualization-output)
 
 ## Usage
 1) Clone the MedicalScanReport_Classification repository:
@@ -35,6 +36,10 @@ The Medical Scan report classification is a jupyter notebook written in Python. 
 | Predicted 5| 0       | 0       | 2       | 16      | 163     | 0       |
 | Predicted 6| 0       | 0       | 0       | 0       | 0       | 225   
 
-#### Visualization Demo
+#### Train and Validation Graph
+![output](https://github.com/NigamKatta/MedicalScanReport_Classification/assets/115204043/c0610a8b-57ca-4236-abf3-b2a0b77838b6)
+
+#### Visualization-output
 ![Screenshot from 2024-03-20 01-13-19](https://github.com/NigamKatta/MedicalScanReport_Classification/assets/115204043/c64aa34c-c6e7-4185-83d0-410109f19df3)
 The title shows the model predictions from the classifier, and the x-label represents the ground truth.
+
